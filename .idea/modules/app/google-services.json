@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911174424724",
+    "project_id": "pjjheros",
+    "storage_bucket": "pjjheros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911174424724:android:c14c6bded5454461c33c81",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.example.pjjheros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911174424724-t9n23la9rla1act0j5no51dggfpjtsq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bignerdranch.example.pjjheros",
+            "certificate_hash": "74a02ca41389ae596dd249f74ba798eff83d4595"
+          }
+        },
+        {
+          "client_id": "911174424724-ktighcrgn6ifp18unah7s7t70mp5f7sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKZPmoDgRIw0qp6UTHQThazj-6-xwzaiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911174424724-ktighcrgn6ifp18unah7s7t70mp5f7sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
